@@ -31,3 +31,6 @@ MyClass::MyClass(int n)
 	
 MyClass::~MyClass()
 	{}
+
+MyClass::MyClass(bool h)
+{ fun = h;)

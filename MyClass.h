@@ -16,7 +16,7 @@ class Myclass
 			void setFun(bool);
 			bool getFun();
 
-		
+			MyClass(bool h);
 			MyClass();
 			MyClass(int n,string s);
 			MyClass(int n);

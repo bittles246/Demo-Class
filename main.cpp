@@ -26,6 +26,8 @@ int main()
 	cout << "m2 = " << m2 << endl;
 	cout << "m3 = " << m3 << endl;
 	
+	MyClass m4 = {false);
+	cout << "m4 = " << m4 << endl;
 	
 	
 }
