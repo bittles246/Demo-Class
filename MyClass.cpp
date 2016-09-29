@@ -18,3 +18,16 @@ void MyClass::setFun(bool b)
 
 string MyClass::getFun()
 { return fun; }
+
+MyClass::MyClass()
+	{}
+	
+MyClass::MyClass(int n,string s)
+	{ 	num = n ;
+		room = s; } 
+	
+MyClass::MyClass(int n)
+	{ num = n; }
+	
+MyClass::~MyClass()
+	{}

@@ -17,5 +17,15 @@ int main()
 	MyClass.setFun(true);
 	MyClass.getFun();
 
-
+	MyClass m1;
+	cout << "m1 = " << m1 << endl;
+	
+	MyClass m2 = {35, "Lr10");
+	MyClass m3 = {16};
+	
+	cout << "m2 = " << m2 << endl;
+	cout << "m3 = " << m3 << endl;
+	
+	
+	
 }
